@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/quote-machine/static/css/main.89042a7d.chunk.css",
-    "main.js": "/quote-machine/static/js/main.32076a86.chunk.js",
-    "main.js.map": "/quote-machine/static/js/main.32076a86.chunk.js.map",
+    "main.js": "/quote-machine/static/js/main.b6fdff0e.chunk.js",
+    "main.js.map": "/quote-machine/static/js/main.b6fdff0e.chunk.js.map",
     "runtime-main.js": "/quote-machine/static/js/runtime-main.6cd4a1b3.js",
     "runtime-main.js.map": "/quote-machine/static/js/runtime-main.6cd4a1b3.js.map",
     "static/css/2.05b26e67.chunk.css": "/quote-machine/static/css/2.05b26e67.chunk.css",
@@ -21,6 +21,6 @@
     "static/css/2.05b26e67.chunk.css",
     "static/js/2.a3e76a70.chunk.js",
     "static/css/main.89042a7d.chunk.css",
-    "static/js/main.32076a86.chunk.js"
+    "static/js/main.b6fdff0e.chunk.js"
   ]
 }
