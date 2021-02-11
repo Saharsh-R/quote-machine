@@ -12,13 +12,17 @@
   }
   #new-quote{
     color: white;
+    font-size: large;
     &:hover{
       opacity: .7;
     }
     
   }
-  #tweet-quote:hover{
-    opacity: .7;
+  #tweet-quote{
+    font-size: 38px;
+    :hover{
+      opacity: .7;
+    }
   }
   
   .App-header {

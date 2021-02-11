@@ -50,7 +50,7 @@ function App() {
                 - {author}
               </p>
               <div style= {{display: 'flex' , justifyContent: 'space-between'}}>
-                <a id = 'tweet-quote' href ={encodeURI(`http://www.twitter.com/intent/tweet?text="${quote}" \n\n- ${author}`)} target = '_blank'><FontAwesomeIcon color = {bColor} icon={faTwitter} size = '2x'/></a>
+                <a id = 'tweet-quote' href ={encodeURI(`http://www.twitter.com/intent/tweet?text="${quote}" \n\n- ${author}`)} target = '_blank' rel="noreferrer"><FontAwesomeIcon color = {bColor} icon={faTwitter} /></a>
                 <Button variant = 'light' style = {{backgroundColor: bColor}} id = 'new-quote' onClick={() => change()}>New Quote</Button>
               </div>
           </div>
